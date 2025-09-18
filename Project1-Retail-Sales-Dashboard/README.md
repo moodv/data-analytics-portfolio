@@ -1,4 +1,4 @@
-# Project 1 — Retail Sales Dashboard (RFM Analysis & Insights)
+# Project 1 — Retail Sales Performance Dashboard 
 
 **Author:** Mahmoud Elnaggar 
 **Tools:** Python (pandas, matplotlib/seaborn), Google Colab Notebook, Power BI.  
@@ -61,4 +61,5 @@ Future projects will use larger datasets with proper customer identifiers to exp
 
 ## Contact
 Mahmoud Elnaggar  — mahmoud.elnaggar19@gmail.com
+
 
