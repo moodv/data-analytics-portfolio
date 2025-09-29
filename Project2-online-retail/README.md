@@ -4,8 +4,8 @@
 🔹 Project Overview
 
 DATASETS: You can find all datasets used in this project from;
-The Original Dataset:  https://archive.ics.uci.edu/dataset/352/online+retail
-All Pre-Processed Datasets: https://drive.google.com/file/d/1qRtuTBz86wFV_7k1eBZlmCErYeAbDHfh/view?usp=sharing
+The Original Dataset:  https://archive.ics.uci.edu/dataset/352/online+retail .
+All Pre-Processed Datasets: https://drive.google.com/file/d/1qRtuTBz86wFV_7k1eBZlmCErYeAbDHfh/view?usp=sharing .
 
 This project is an end-to-end data analytics and business intelligence solution. It covers everything from data engineering & preprocessing in Google Colab to building a multi-page interactive dashboard in Power BI.
 
