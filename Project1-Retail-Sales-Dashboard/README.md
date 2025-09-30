@@ -1,4 +1,4 @@
-# Project 1 — Retail Sales Dashboard (RFM Analysis & Insights)
+# Project 1 — Retail Sales Performance Dashboard 
 
 **Author:** Mahmoud Elnaggar 
 **Tools:** Python (pandas, matplotlib/seaborn), Google Colab Notebook, Power BI.  
@@ -34,7 +34,7 @@ Since the dataset is relatively small, this project is intended as a demonstrati
    *  Payment preferences (Cash, Credit Card, E-wallet)
    *  Trends by day of week and time of day
 
-3. Dashboard Development (Power BI)
+**3. Dashboard Development (Power BI)**
    * Branch & Product Line Analysis
    * Customer Type & Payment Analysis
    * Time Trends (Daily/Weekly/Monthly)
@@ -61,4 +61,6 @@ Future projects will use larger datasets with proper customer identifiers to exp
 
 ## Contact
 Mahmoud Elnaggar  — mahmoud.elnaggar19@gmail.com
+
+
 
