@@ -76,15 +76,7 @@ The raw data was processed and cleaned in Python before importing into Power BI.
 * Action-Oriented: Helps management identify profitable customers, at-risk segments, and key growth opportunities.
 * Scalable: Easy to add predictive analytics (e.g., churn prediction, sales forecasting).
 
-🔹 How to Use
 
-1. Open project2-data-prep.ipynb in Google Colab → run preprocessing steps if you want to regenerate datasets.
-
-2. Open the .pbix file in Power BI Desktop.
-
-3. Explore the 4 dashboard pages.
-
-4. Use slicers/filters for deeper insights.
 
 🔹 Future Improvements
 
