@@ -54,13 +54,11 @@ Since the dataset is relatively small, this project is intended as a demonstrati
 
 (dashboard or .pbix file here `dashboard/`)
 
-⚠️ Note on Customer Segmentation:
-The dataset did not include a true customer_id column, only invoice_id.
-Because of this, advanced customer-level analysis (like RFM segmentation) was not possible in this project.
-Future projects will use larger datasets with proper customer identifiers to explore customer segmentation, churn, and clustering.
+
 
 ## Contact
 Mahmoud Elnaggar  — mahmoud.elnaggar19@gmail.com
+
 
 
 
