@@ -1,5 +1,7 @@
 1. Introduction
 
+An end-to-end HR Analytics solution integrating PostgreSQL, Python, and Power BI to analyze employee performance, predict attrition, and drive data-informed HR decisions.
+
 This project presents a comprehensive HR Analytics and Employee Attrition Prediction system designed to uncover workforce trends, performance drivers, and potential attrition risks.
 The goal was to move from raw HR data to actionable business insights through a complete data pipeline — encompassing database modeling, SQL exploration, predictive modeling in Python, and visualization in Power BI.
 The outcome is an interactive analytics dashboard that empowers HR managers to understand employee behavior, training impact, and attrition risk with both descriptive and predictive insights.
@@ -163,3 +165,4 @@ It strengthened analytical reasoning, data modeling expertise, and the ability t
 
 The HR Analytics Dashboard offers a holistic view of workforce performance and attrition behavior, backed by a predictive framework that empowers HR teams to act proactively.
 It bridges data engineering, analytics, and AI-driven decision-making — all in one integrated solution.
+
